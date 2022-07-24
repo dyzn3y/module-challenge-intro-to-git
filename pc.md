@@ -17,3 +17,4 @@ git fetch downloads repository. git merge merges branches from git. git pull all
 a conflict that happens when you merge branches that have competing commits. 
 8. How do you resolve a merge conflict?
 use pull requests to compare the merge requests and decide which request to honor. 
+made changes to practice pushing 
